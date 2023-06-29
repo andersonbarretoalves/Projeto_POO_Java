@@ -13,8 +13,18 @@ Programação Orientado a Objetos e também os conceitos mais importantes deste 
 * **Git**
 * **Conta no GitHub**
 
-### Paradigma Orientado a Objeto (POO)
+### Paradigma Orientada a Objeto (POO)
 
 * **Paradigma:** Modelo, Exemplo a ser seguido.
 * **Programação:** Desenvolvimento de uma aplicação
-* **Orientação:** Aquilo que é regido; segue uma orientação
+* **Orientada:** Aquilo que é regido; segue uma orientação
+* **Objeto** Um molde que representa uma determinada classe
+
+**Paradigma de Programação0 Orientado a Objetos:** É um modelo de desenvolvimento de aplicações, sendo este modelo
+construído acerca do conceito de objetos.
+
+### Linguagem vs Paradigma
+**Limguagem de origramação:** É uma linguagem formal que, através de uma série de instruções, permite que um programador
+escreva um conjunto de ordens, ações consecutivas, dados e algoritmos para criar programas.
+
+**
