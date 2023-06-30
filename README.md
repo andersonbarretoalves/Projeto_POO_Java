@@ -20,11 +20,49 @@ Programação Orientado a Objetos e também os conceitos mais importantes deste 
 * **Orientada:** Aquilo que é regido; segue uma orientação
 * **Objeto** Um molde que representa uma determinada classe
 
-**Paradigma de Programação0 Orientado a Objetos:** É um modelo de desenvolvimento de aplicações, sendo este modelo
+**Paradigma de Programação Orientado a Objetos:** É um modelo de desenvolvimento de aplicações, sendo este modelo
 construído acerca do conceito de objetos.
 
 ### Linguagem vs Paradigma
-**Limguagem de origramação:** É uma linguagem formal que, através de uma série de instruções, permite que um programador
-escreva um conjunto de ordens, ações consecutivas, dados e algoritmos para criar programas.
 
-**
+**Limguagem de Programação:** É uma linguagem formal que, através de uma série de instruções, permite que um programador
+escreva um conjunto de ordens, ações consecutivas, dados e algoritmos para criar programas.<br>
+**Podem ser classificadas:**
+* Niveis de Abstração
+* Paradigma de origramação
+* Arquitetura de aplicação
+* Tipo de execução
+
+**Paradigma de Linguagem de Programação: É um conjunto de características que podem ser utilizado para categorizar
+determinado grupo de linguagens. Um paradigma pode oferecer técnicas apropriadas para uma aplicação específica.<br>
+
+**Paradigmas Principais e seus Subparadigmas:**
+* **Paradigma Imperativo:**
+  * Paradigma Estruturado
+  * Paradigma Concorrente
+  * Paradigma Orientado a Objeto
+* Paradigma Declarativo:
+  * Paradigma Funcional
+  * Paradigma Lógico
+
+### Domínio da Aplicação
+* **Bootcamp**
+  * Nome
+  * Descrição
+  * Data Inicial
+  * Data Final
+  * **Devs**
+    * Nome 
+    * Mentorias
+    * Atividades
+    * Inscrever no Bootcamp
+    * Exibir Cursos
+  * **Mentorias**
+    * Titulo
+    * Descrição
+    * Data da Mentoria
+  * **Atividades/Cursos**
+    * Titulo
+    * Descrição
+    * Carga Horaria
+  
